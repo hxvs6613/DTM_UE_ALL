@@ -3,7 +3,6 @@
 ## EP01 | Dasymetrische Chloroplethenkarten
 
 <img width="1055" height="742" alt="Berlin" src="https://github.com/user-attachments/assets/d1bbd573-1f33-432c-a38b-b695b21828e0" />
-
 In dieser Aufgabe wurden drei verschiedene Methoden zur Darstellung der Bevölkerungsverteilung in Berlin erstellt und miteinander verglichen. Dazu zählen eine absolute und eine relative Choroplethenkarte sowie eine dasymetrische Choroplethenkarte. Während die absolute Darstellung die Gesamtzahl der Einwohner pro Gebiet zeigt und die relative Darstellung die Bevölkerungsdichte (Einwohner pro km²) abbildet, verteilt die dasymetrische Darstellung die Bevölkerungszahlen ausschließlich auf tatsächlich bewohnte bzw. bebaute Flächen. Dadurch werden unbewohnte Gebiete wie Wälder, Gewässer oder große Grünflächen nicht in die Darstellung einbezogen. Anschließend wurden alle drei Karten in einem gemeinsamen Layout nebeneinander angeordnet, um die Unterschiede der Darstellungsformen direkt vergleichen zu können. So wird deutlich, wie sich die Wahl der Darstellung auf die Interpretation der Bevölkerungsverteilung auswirkt und welche Methode ein realistischeres Bild der tatsächlichen Siedlungsstruktur Berlins vermittelt.
 
 ## EP.02 | Gitterchoroplethenkarten
