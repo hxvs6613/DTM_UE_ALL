@@ -1,4 +1,5 @@
-# DTM
+# DTM SoSe 2026
+
 ## EP01 | Dasymetrische Chloroplethenkarten
 
 <img width="1055" height="742" alt="Berlin" src="https://github.com/user-attachments/assets/d1bbd573-1f33-432c-a38b-b695b21828e0" />
@@ -30,5 +31,8 @@
 ## EP.07 | Animation in QGIS
 
 
+## EP08 | Mesh-Daten
+
+## EP09 | 3D-Gebäudemodelle
 
 
