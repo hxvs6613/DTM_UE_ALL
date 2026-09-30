@@ -9,6 +9,7 @@
 <img width="921" height="759" alt="karte_blau_gelb" src="https://github.com/user-attachments/assets/f90b4a11-4f3c-4022-9e3e-2ec03a88f9c5" />
 
 #EP06 | Tilemaps
+
 <img width="851" height="748" alt="Berlin_Lego" src="https://github.com/user-attachments/assets/294d68e4-dc4b-45a9-b96f-eabf1ef67a6d" />
 
 <img width="2000" height="2814" alt="Deutschland_Klemmbausteine_Karte" src="https://github.com/user-attachments/assets/65595e32-8e3d-4eb4-843c-8fc201c01348" />
