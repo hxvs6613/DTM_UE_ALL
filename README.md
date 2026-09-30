@@ -44,9 +44,7 @@ In dieser Aufgabe haben wir eine zeitbasierte Animation zur Darstellung von Mete
 <img width="459" height="551" alt="orkantief_joshua_benjamin_silhouette" src="https://github.com/user-attachments/assets/60418538-256e-4ca4-a110-eac7470e243b" />
 
 
-
-
-
+Die EP 08 befasst sich mit der animierten Visualisierung von Mesh-Daten am Beispiel des Orkans Joshua vom 21 bis 25 Oktober 2025. Dabei wurde sich bei der farblichen Visualisierung an dem Stil des Künstlers van Goghs orientiert. Die Strömungslinien geben Auskunft über die Windbewegungen im vier Stundentakt und die vorherrschenden Windgeschwindigkeiten. Hierbei zeigen sich identische Vor- und Nachteile wie in der vorherigen Aufgabe.
 
 ## EP09 | 3D-Gebäudemodelle
 
