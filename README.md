@@ -7,6 +7,8 @@
 
 #EP03 | Punktrasterkarten
 <img width="921" height="759" alt="karte_blau_gelb" src="https://github.com/user-attachments/assets/f90b4a11-4f3c-4022-9e3e-2ec03a88f9c5" />
+#EP 04 | Value-by-alpha-mapping
+<img width="4960" height="3507" alt="Ungarn_Wahlen_2026_Layout" src="https://github.com/user-attachments/assets/dadeb954-6d90-46c6-b219-b39d97c5e70c" />
 
 #EP06 | Tilemaps
 
