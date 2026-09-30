@@ -41,6 +41,13 @@ In dieser Aufgabe haben wir eine zeitbasierte Animation zur Darstellung von Mete
 
 ## EP08 | Mesh-Daten
 
+<img width="459" height="551" alt="orkantief_joshua_benjamin_silhouette" src="https://github.com/user-attachments/assets/60418538-256e-4ca4-a110-eac7470e243b" />
+
+
+
+
+
+
 ## EP09 | 3D-Gebäudemodelle
 
 ## 2,5D
